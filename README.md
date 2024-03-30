@@ -8,3 +8,5 @@ Keypoint swift
 240327_1647_glory : lidar scan app 코드 + 폴더명 변경
 
 240329_1010_glory : [O] LiDAR 기반 초실사 object scan project ref : https://www.youtube.com/watch?v=PGqr_zfhWaA
+
+240330_1553_glory : [O] LiDAR 기반 공간 ply 렌더링 부분 소스코드 리뷰 작성 완료
