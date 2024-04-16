@@ -10,3 +10,5 @@ Keypoint swift
 240329_1010_glory : [O] LiDAR 기반 초실사 object scan project ref : https://www.youtube.com/watch?v=PGqr_zfhWaA
 
 240330_1553_glory : [O] LiDAR 기반 공간 ply 렌더링 부분 소스코드 리뷰 작성 완료
+
+240416_1754_glory : [O] LiDAR 기반으로 아이폰 현재 좌표에 대한 x,y,z 위치좌표 ㄱ해 주는 앱 (어플 실행할때에 0,0,0으로 잡음)
