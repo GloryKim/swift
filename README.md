@@ -20,3 +20,5 @@ Keypoint swift
 240530_1616_glory : 240528_1437_glory 기록에 1초에 10번 찍고 nodejs에 보내면서 동시에 nodejs에서 Log 기록으로 저장하는 코드
 
 240530_1641_glory : 깃허브 작성자 관련 이슈 문제 재 해결
+
+240613_1345_glory : iOS 단말기로 특정 이미지 스캔 시 기 저장된 3D 파일 특정위치에 랜더링 및 위치 배정+각도조절+크기조절 [[Youtube]](https://www.youtube.com/shorts/iFSYXlfWK2k)
