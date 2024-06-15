@@ -22,3 +22,5 @@ Keypoint swift
 240530_1641_glory : 깃허브 작성자 관련 이슈 문제 재 해결
 
 240613_1345_glory : iOS 단말기로 특정 이미지 스캔 시 기 저장된 3D 파일 특정위치에 랜더링 및 위치 배정+각도조절+크기조절 [[Youtube]](https://www.youtube.com/shorts/iFSYXlfWK2k)
+
+240614_1402_glory : iOS 단말기로 특정 이미지 스캔시 기 저장된 3D 파일 특정위치에 랜더링 및 버튼 조작을 통한 사물이동 + 위치 좌표 세팅 [[Youtube]](https://www.youtube.com/watch?v=HOVwUouHGBs)
